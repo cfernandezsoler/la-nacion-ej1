@@ -11,3 +11,6 @@ Tags.js se encarga de mapear los artículos para agrupar y totalizar los tags, p
 Article.js se encarga de mapear también los artículos, pero este, obtiene la fecha de los mismos y la convierte en una cadena legible, mostrando también su imagen, titulo y solo se renderiza aquellos articulos con subtype 7. 
 
 Se utilizo webpack-dev-server para el testeo de la aplicación. 
+
+Para el estilo de la aplicación se utilizo el archivo CSS que vino incluido con la maqueta que obtuve a través del código fuente de la misma. Sin embargo tuve que hacerle una modificación ya que tiraba error al intentar cargar una fuente y tuve que 'comentar' esas lineas para que funcionara.
+No inclui en la aplicación el header y tampoco el footer, debido a que habia iconos que no cargaban y movian al main.

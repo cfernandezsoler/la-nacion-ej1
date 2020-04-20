@@ -12,5 +12,6 @@ Article.js se encarga de mapear también los artículos, pero este, obtiene la f
 
 Se utilizo webpack-dev-server para el testeo de la aplicación. 
 
-Para el estilo de la aplicación se utilizo el archivo CSS que vino incluido con la maqueta que obtuve a través del código fuente de la misma. Sin embargo tuve que hacerle una modificación ya que tiraba error al intentar cargar una fuente y tuve que 'comentar' esas lineas para que funcionara.
-No inclui en la aplicación el header y tampoco el footer, debido a que habia iconos que no cargaban y movian al main.
+Para el estilo de la aplicación se utilizó el archivo CSS que vino incluido con la maqueta que obtuve a través del código fuente de la misma. Sin embargo, tuve que hacerle una modificación ya que tiraba error al intentar cargar una fuente y tuve que 'comentar' esas lineas para que funcionara.
+
+No incluí en la aplicación el header y tampoco el footer, debido a que había iconos que no cargaban y movían al main.
